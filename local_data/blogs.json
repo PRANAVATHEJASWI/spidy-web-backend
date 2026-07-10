@@ -1,0 +1,16 @@
+[
+  {
+    "id": "intro-to-playwright",
+    "title": "Building Scalable Test Suites with Playwright Java & TestNG",
+    "excerpt": "A deep dive into setting up a robust, parallel-executing automation framework from scratch using Playwright's Java binding.",
+    "content": "### Introduction\n\nPlaywright has emerged as a powerful tool for modern web testing. In this article, we explore how to combine Playwright's Java API with the TestNG framework to achieve highly reliable, parallel test execution. We will cover locator strategies, handling flaky tests with retry mechanisms, and organizing tests for CI/CD integrations.\n\n### Why Playwright Java?\n\nWhile Node.js is the most common language binding for Playwright, Java provides solid integration with enterprise test-runners like TestNG and JUnit, and is widely used in QA automation teams. Combining the speed of Playwright with the test organization capabilities of TestNG makes for a highly robust combination.",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "ai-exam-proctoring",
+    "title": "Designing an AI-Driven Proctoring System using OpenCV and YOLO",
+    "excerpt": "Exploring the architecture of a real-time exam monitoring system capable of detecting multiple streams and tracking face/eye movement.",
+    "content": "### The Challenge of Remote Proctoring\n\nRemote examinations require reliable proctoring interfaces to verify candidate identity and integrity. By leveraging computer vision and deep learning models, we can automate the detection of behavior cues.\n\n### Tech Stack & Architecture\n\nOur system uses: \n- **Flask** for backend video streaming.\n- **OpenCV & MediaPipe** for eye tracking and facial landmarks.\n- **YOLO (You Only Look Once)** to identify objects like mobile phones or additional books in the camera frame.",
+    "date": "2026-06-15"
+  }
+]

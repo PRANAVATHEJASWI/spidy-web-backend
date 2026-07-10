@@ -1,0 +1,127 @@
+{
+  "name": "Pranava Thejaswi N M",
+  "title": "QA Engineer",
+  "subTitle": "Software Engineer \u2022 Azentio",
+  "description": "",
+  "contact": {
+    "phone": "7676037294",
+    "email": "pranavathejaswi8@gmail.com",
+    "linkedin": "https://linkedin.com/in/pranavathejaswi",
+    "github": "https://github.com/pranavathejaswi",
+    "portfolio": "https://pranavathejaswi.dev",
+    "extraUrls": []
+  },
+  "education": [
+    {
+      "institution": "Vidyavardhaka College of Engineering",
+      "degree": "Bachelor of Engineering",
+      "cgpa": "8.91",
+      "duration": "2021 \u2013 2025",
+      "link": ""
+    }
+  ],
+  "experience": [
+    {
+      "role": "Trainee Engineer",
+      "company": "Azentio",
+      "location": "Bengaluru",
+      "duration": "Jun 2025 \u2013 Present",
+      "highlights": [
+        "Designed and enhanced a scalable Playwright (Java) automation framework using TestNG, supporting parallel execution and centralized configuration.",
+        "Integrated API and UI automation workflows, improving regression efficiency and increasing test coverage by 30%.",
+        "Implemented retry mechanisms and optimized locator strategies, reducing flaky test failures significantly.",
+        "Contributed to end-to-end testing in the Lending domain, ensuring high reliability of critical workflows."
+      ],
+      "link": ""
+    },
+    {
+      "role": "Software Developer Intern",
+      "company": "DigitalShark",
+      "location": "Bengaluru",
+      "duration": "Feb 2025 \u2013 Apr 2025",
+      "highlights": [
+        "Developed 3+ Qt-based applications including a CSV-to-SQL converter, reducing manual conversion effort by 70%.",
+        "Optimized C++/Qt data-processing modules, improving performance by 25\u201330%."
+      ],
+      "link": ""
+    },
+    {
+      "role": "ML Intern",
+      "company": "Mysuru Consulting Group (MCG)",
+      "location": "Mysuru",
+      "duration": "Apr 2024 \u2013 Jul 2024",
+      "highlights": [
+        "Built a text-classification model achieving 92% accuracy, improving categorization efficiency by 40%.",
+        "Developed a real-time TODO application using Firebase for authentication and cloud synchronization."
+      ],
+      "link": ""
+    },
+    {
+      "role": "Peer Trainer",
+      "company": "Vidyavardhaka College of Engineering",
+      "location": "Mysuru",
+      "duration": "2024",
+      "highlights": [
+        "Delivered 36 hours of training on DSA and OOP concepts to undergraduate students."
+      ],
+      "link": ""
+    }
+  ],
+  "projects": [
+    {
+      "title": "Proctoring System with AI-Driven Automated Exam Management",
+      "techStack": "Flask, OpenCV, MediaPipe, YOLO, Dlib, Whisper, Firebase, Generative AI, Flask-Mail",
+      "highlights": [
+        "Developed a Flask-based proctoring platform processing 120+ real-time video streams with face/eye tracking and YOLO-based object detection.",
+        "Improved cheating detection accuracy to 94% using MediaPipe + Dlib + YOLO integration."
+      ],
+      "link": ""
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Java",
+      "Python",
+      "C/C++",
+      "JavaScript",
+      "SQL"
+    ],
+    "automationTesting": [
+      "Playwright (Java)",
+      "TestNG",
+      "API Testing"
+    ],
+    "aiLlm": [
+      "RAG (Retrieval-Augmented Generation)",
+      "Prompt Engineering",
+      "LLM Integration"
+    ],
+    "toolsTechnologies": [
+      "Git",
+      "Maven",
+      "Firebase",
+      "Qt/QML",
+      "Streamlit",
+      "FastAPI",
+      "React"
+    ]
+  },
+  "certificates": [
+    "Google Cloud Platform \u2013 Data Engineer Learning Path",
+    "Google Cloud Platform \u2013 Data Analyst Learning Path"
+  ],
+  "publications": [
+    {
+      "title": "Comprehensive Proctoring System with AI-Driven Automated Exam Management",
+      "journal": "International Journal of Advance Computational Engineering and Networking (IJACEN)",
+      "volumeInfo": "Volume-13, Issue-5, 2025",
+      "url": "#"
+    }
+  ],
+  "customSections": [],
+  "askMrNoob": {
+    "enabled": false,
+    "label": "Ask MrNoob",
+    "disabledMessage": "AI assistant is under construction."
+  }
+}
