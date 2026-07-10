@@ -143,6 +143,11 @@ class BlogSchema(BlogCreateSchema):
 
 # --- API ENDPOINTS ---
 
+@app.head("/")
+def head_root():
+    """Handle HEAD requests for uptime monitoring."""
+    return {}
+    
 @app.get("/api/status")
 def get_status():
     return {
